@@ -1,0 +1,3 @@
+# datastructure
+
+This repository contains the basic implementations of the most common data structures such as Binary Tree, Graph, LinkedList, etc...
